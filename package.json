@@ -1,7 +1,15 @@
 {
   "name": "chroma-viewer",
   "version": "0.1.0",
+  "description": "A beautiful and intuitive web interface for exploring and visualizing ChromaDB vector databases",
   "private": true,
+  "author": "Huzaifa Saleem",
+  "license": "MIT",
+  "keywords": ["chromadb", "vector database", "embeddings", "visualization", "nextjs", "react"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/chroma-viewer"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
