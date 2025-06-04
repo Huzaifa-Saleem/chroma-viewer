@@ -27,7 +27,7 @@ A beautiful and intuitive web interface for exploring and visualizing your Chrom
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/chroma-viewer.git
+git clone https://github.com/Huzaifa-Saleem/chroma-viewer.git
 cd chroma-viewer
 ```
 
