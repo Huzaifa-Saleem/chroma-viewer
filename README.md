@@ -7,6 +7,8 @@
 
 A beautiful and intuitive web interface for exploring and visualizing your ChromaDB vector database. ChromaDB Viewer allows you to connect to any ChromaDB instance, browse collections, and explore embeddings with a modern, responsive UI featuring stunning gradients, animations, and a polished user experience.
 
+![ChromaDB Viewer Interface](/public/og-image.png)
+
 ## 🚀 Features
 
 - **✨ Beautiful UI**: Modern interface with gradient text, animated backgrounds, and smooth transitions
