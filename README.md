@@ -1,5 +1,6 @@
 # ChromaDB Viewer
 
+[![GitHub](https://img.shields.io/badge/GitHub-Huzaifa--Saleem%2Fchroma--viewer-181717?style=flat&logo=github)](https://github.com/Huzaifa-Saleem/chroma-viewer)
 ![ChromaDB Viewer](https://img.shields.io/badge/ChromaDB-Viewer-8A2BE2)
 ![Next.js](https://img.shields.io/badge/Next.js-15.3.3-black)
 ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -99,3 +100,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ChromaDB](https://github.com/chroma-core/chroma) - The open-source embedding database
 - [Next.js](https://nextjs.org/) - The React framework
 - [TailwindCSS](https://tailwindcss.com/) - For the UI components
+
+---
+
+© 2025 Huzaifa Saleem. All Rights Reserved.
+
+[GitHub Repository](https://github.com/Huzaifa-Saleem/chroma-viewer) | [Report an Issue](https://github.com/Huzaifa-Saleem/chroma-viewer/issues)
