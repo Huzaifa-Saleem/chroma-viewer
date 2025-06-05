@@ -3,19 +3,22 @@
 ![ChromaDB Viewer](https://img.shields.io/badge/ChromaDB-Viewer-8A2BE2)
 ![Next.js](https://img.shields.io/badge/Next.js-15.3.3-black)
 ![License](https://img.shields.io/badge/License-MIT-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-A beautiful and intuitive web interface for exploring and visualizing your ChromaDB vector database. ChromaDB Viewer allows you to connect to any ChromaDB instance, browse collections, and explore embeddings with a modern, responsive UI.
+A beautiful and intuitive web interface for exploring and visualizing your ChromaDB vector database. ChromaDB Viewer allows you to connect to any ChromaDB instance, browse collections, and explore embeddings with a modern, responsive UI featuring stunning gradients, animations, and a polished user experience.
 
 ## 🚀 Features
 
-- **Connect to any ChromaDB instance**: Local or remote ChromaDB servers
-- **Browse collections**: View all collections in your ChromaDB instance
-- **Explore data**: View documents, metadata, and embeddings in a clean interface
-- **Search functionality**: Filter through your vector data with ease
-- **Pagination**: Navigate through large datasets efficiently
-- **Sorting**: Sort your data by various fields
-- **Responsive design**: Works on desktop and mobile devices
-- **Dark mode support**: Easy on the eyes for late-night sessions
+- **✨ Beautiful UI**: Modern interface with gradient text, animated backgrounds, and smooth transitions
+- **🎨 Visual Design**: Translucent panels with backdrop blur, decorative elements, and consistent color scheme
+- **🔄 Smooth Animations**: Fade-in and slide-up effects for a polished user experience
+- **🔍 Enhanced Search**: Stylish search input with instant filtering across all data fields
+- **⚡ Interactive Data Table**: Beautiful table with custom scrollbars and column sorting functionality
+- **🔢 Smart Pagination**: Elegant pagination controls with gradient highlighting for active page
+- **📱 Responsive Design**: Optimized layout that works beautifully on all devices
+- **🌙 Dark Mode Support**: Carefully designed dark theme with proper contrast and readability
+- **🔄 Connect to Any ChromaDB**: Works with both local and remote ChromaDB instances
+- **📊 Embedding Visualization**: Toggle view for vector embeddings with formatted display
 
 ## 📋 Prerequisites
 
